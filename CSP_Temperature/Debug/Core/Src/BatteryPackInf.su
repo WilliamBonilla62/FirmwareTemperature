@@ -1,0 +1,8 @@
+BatteryPackInf.c:48:6:BP_Initialisation	16	static
+BatteryPackInf.c:66:6:BP_Reset	4	static
+BatteryPackInf.c:77:6:BP_ReadMatrix	16	static
+BatteryPackInf.c:134:6:BP_ReadPTC	16	static
+BatteryPackInf.c:168:6:BP_ReadAll	8	static
+BatteryPackInf.c:174:6:BP_canFormat	24	static
+BatteryPackInf.c:189:9:TempConvNTC	56	static
+BatteryPackInf.c:203:9:TempConvPTC	32	static

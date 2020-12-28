@@ -1,0 +1,5 @@
+FrameWork.c:8:6:FrameWorkInit	4	static
+FrameWork.c:13:6:FrameWorkTask	4	static
+FrameWork.c:18:10:FrameWorkTimeGet	8	static
+FrameWork.c:22:10:FrameWorkTimeDiff	24	static
+FrameWork.c:28:7:FrameWorkTimeIsDue	16	static

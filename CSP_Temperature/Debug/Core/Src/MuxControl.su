@@ -1,0 +1,10 @@
+MuxControl.c:13:6:MUXCONTROL1	24	static
+MuxControl.c:39:6:MUXCONTROL2	24	static
+MuxControl.c:64:6:StrobeHigh	8	static
+MuxControl.c:68:6:StrobeLow	8	static
+MuxControl.c:72:6:DECCONTROL	24	static
+MuxControl.c:113:9:TransSoft2HardMux1	16	static
+MuxControl.c:165:9:TransSoft2HardMux2	16	static
+MuxControl.c:217:9:TransSoft2HardDec	16	static
+MuxControl.c:265:6:MX_Mux_init	8	static
+MuxControl.c:278:6:Set_Vref_High	8	static

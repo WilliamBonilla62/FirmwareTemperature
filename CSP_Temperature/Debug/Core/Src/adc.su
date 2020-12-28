@@ -1,0 +1,2 @@
+adc.c:6:6:MX_ADC_Init	24	static
+adc.c:43:6:ChangeChannel	32	static

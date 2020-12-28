@@ -1,0 +1,3 @@
+can.c:10:6:MX_CAN_Init	48	static
+can.c:63:6:canTransmit	32	static
+can.c:88:6:canReceive	24	static
